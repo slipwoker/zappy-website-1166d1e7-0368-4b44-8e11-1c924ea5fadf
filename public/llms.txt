@@ -1,0 +1,110 @@
+# לגולנד — Generative Engine Optimization Map
+
+> A website related to LEGO — could be a fan site, a store selling LEGO sets, a community platform, or a creative showcase. The brand revolves around building, creativity, and playfulness associated with LEGO products.
+
+---
+
+## Pages
+
+### בית
+https://-1166d1e7.zappy5.app
+גלו את היקום הקסום של לגולנד: חנות משחקי הרכבה, השראה לבנייה וקהילה שוקקת. צללו לעולם של דמיון, צבע ויצירתיות עם לגו והפכו כל רעיון למציאות משחקית.
+
+### למידה יצירתית
+https://-1166d1e7.zappy5.app/creative-learning
+הפכו כל רגע להזדמנות לימודית עם ערכות הלגו של לגולנד. פיתוח מיומנויות חשיבה, תכנון ופתרון בעיות בדרך הכי כיפית. התחילו ללמוד תוך כדי משחק עוד היום.
+
+### גלריה
+https://-1166d1e7.zappy5.app/gallery
+היכנסו לגלריה המרהיבה של לגולנד וקבלו השראה מיצירות לגו פורצות דרך. מקהילות מעריצים ועד דגמים מורכבים — המקום שבו הדמיון פוגש את המציאות ומתעלה עליה.
+
+### אודות
+https://-1166d1e7.zappy5.app/about
+לגולנד היא הרבה יותר מחנות — אנחנו קהילה של בונים, חולמים ויוצרים. גלו את החזון, התשוקה והמסע שלנו להפיץ את חדוות המשחק והבנייה לכל גיל. הצטרפו למשפחה.
+
+### צור קשר
+https://-1166d1e7.zappy5.app/contact
+רוצים לשתף פעולה, לשאול על ערכה או סתם להגיד שלום? צוות לגולנד תמיד כאן להקשיב. מלאו את הטופס ונחזור אליכם במהירות עם חיוך וחלקת לגו ביד.
+
+### Products
+https://-1166d1e7.zappy5.app/products
+המוצרים שלנו - לגולנד
+
+### Cart
+https://-1166d1e7.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-1166d1e7.zappy5.app/checkout
+תשלום
+
+### Login
+https://-1166d1e7.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-1166d1e7.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-1166d1e7.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-1166d1e7.zappy5.app/product/:slug
+פרטי המוצר - לגולנד
+
+### Category
+https://-1166d1e7.zappy5.app/category/:slug
+מוצרים - לגולנד
+
+### תודה על פנייתך | לגולנד
+https://-1166d1e7.zappy5.app/thank-you
+לגולנד - תודה על פנייתך | לגולנד
+
+## Legal & Policy
+
+### Privacy Policy
+https://-1166d1e7.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-1166d1e7.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-1166d1e7.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About לגולנד
+A website related to LEGO — could be a fan site, a store selling LEGO sets, a community platform, or a creative showcase. The brand revolves around building, creativity, and playfulness associated with LEGO products.
+
+## Target Audience
+- משפחות אוהבות לגו
+- מחנכים למשחק יצירתי
+- קונים עבור מתנות
+- אספני לגו
+- חובבי בנייה ופנאי
+
+## Industry
+Toys & Games
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-1166d1e7.zappy5.app/sitemap.xml
+- Robots: https://-1166d1e7.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-1166d1e7.zappy5.app/llms-full.txt
+- Products (JSON): https://-1166d1e7.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-1166d1e7.zappy5.app/product-feed.xml
